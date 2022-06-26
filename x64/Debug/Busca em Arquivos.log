@@ -1,0 +1,9 @@
+﻿  Busca em Arquivos.c
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(59,26): warning C4133: '=': tipos incompatíveis - de 'indice *' para 'indice *'
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(73,28): warning C4133: '=': tipos incompatíveis - de 'indice *' para 'indice *'
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(80,51): warning C4133: '=': tipos incompatíveis - de 'indice *' para 'indice *'
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(84,26): warning C4133: '=': tipos incompatíveis - de 'indice *' para 'indice *'
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(86,28): warning C4133: '=': tipos incompatíveis - de 'indice *' para 'indice *'
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(96,50): warning C4133: '=': tipos incompatíveis - de 'indice *' para 'indice *'
+C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\Busca em Arquivos.c(163,17): warning C4098: 'exclui': função 'void' retornando um valor
+  Busca em Arquivos.vcxproj -> C:\Users\alfre\source\repos\POD_CELIO-PesquisaArquivos\x64\Debug\Busca em Arquivos.exe
